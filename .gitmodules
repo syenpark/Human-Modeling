@@ -1,0 +1,9 @@
+[submodule "tf_smpl"]
+	path = tf_smpl
+	url = https://github.com/syenpark/tf_smpl
+[submodule "SMPL"]
+	path = SMPL
+	url = https://github.com/syenpark/SMPL
+[submodule "humanshape"]
+	path = humanshape
+	url = https://github.com/syenpark/humanshape
