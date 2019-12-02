@@ -5,7 +5,7 @@ Repositories associated with [SCAPE](https://ai.stanford.edu/~drago/Projects/sca
 The official SMPL implementation with Python 2 on [its official website](http://smpl.is.tuebingen.mpg.de/downloads), but it is not be on my GitHub because of its copyright issues.
 
 ## SMPL
-
+[This GitHub](https://github.com/CalciferZh/SMPL) implemented SMPL with Numpy, TensorFlow, and PyTorch respectively.
 
 ## tf_smpl
 
