@@ -8,7 +8,7 @@ The official SMPL implementation with Python 2 on [its official website](http://
 [This GitHub](https://github.com/CalciferZh/SMPL) implemented SMPL with Numpy, TensorFlow, and PyTorch respectively.
 
 ## tf_smpl
-
+[Another TF SMPL implementation](https://github.com/blzq/tf_smpl).
 
 ## humanshape
-
+[This](http://humanshape.mpi-inf.mpg.de/) works for SCAPE AND S-SCAPE, [GitHub](https://github.com/leonid-pishchulin/humanshape).
