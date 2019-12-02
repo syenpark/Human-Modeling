@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# SMPL pre-trained models and original Python source code
+smpl/
