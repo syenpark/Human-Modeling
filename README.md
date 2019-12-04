@@ -12,3 +12,6 @@ The official SMPL implementation with Python 2 on [its official website](http://
 
 ## humanshape
 [This](http://humanshape.mpi-inf.mpg.de/) works for SCAPE AND S-SCAPE, [GitHub](https://github.com/leonid-pishchulin/humanshape).
+
+## Other materials related to computer graphic mathematics
+- [Rigid body transformations in 2D and 3D](http://planning.cs.uiuc.edu/ch3.pdf) with [Homogeneous Transformations](http://web.cs.iastate.edu/~cs577/handouts/homogeneous-transform.pdf)
